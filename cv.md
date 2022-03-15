@@ -32,3 +32,27 @@ location: [Brest, Belarus](https://goo.gl/maps/ptAL4TB4n6LXx82E7)
 - 2022 - The Rolling Scopes School (JavaScript/Front-end. Stage 0)    
 
 ---
+
+## SKILLS
+
+As part of his self-education I learned the basics of 
+- HTML			
+- CSS
+- JS
+- GIT, GITHUB
+- Figma, Photoshop
+
+---
+
+## LANGUAGE SKILLS
+
+- RUS
+- ENG (A2)  
+
+---
+
+## PROJECT EXAMPLES
+
+- [example](https://pitbrest.github.io/image-gallery/)
+- [example](https://pitbrest.github.io/eco-sounds/)
+- [example](https://pitbrest.github.io/photographer-s-portfolio/)  
